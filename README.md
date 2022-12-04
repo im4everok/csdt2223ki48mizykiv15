@@ -2,7 +2,7 @@
 ## This is repository for my CSDT tasks
 
 ## Task 1. Initiate GIT repository (BEF)
-
+Changes to readme file
 1. Create a github repo with the name "csdt2223&lt;YY1YY2&gt;&lt;group&gt;&lt;student's full name&gt;&lt;student's number&gt;", main branch develop.
 
     - YY1 - Start studding year
@@ -28,4 +28,3 @@
     - HW i-face: SPI
     - Game: tetris
     - Date driven format: XML
-
